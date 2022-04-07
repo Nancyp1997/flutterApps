@@ -28,7 +28,8 @@ void main() {
 
 
 
-  runApp( MaterialApp(
+  runApp(MaterialApp(
+    debugShowCheckedModeBanner : false,
     title: "MaterialApp Title",
 
     initialRoute: '/',
@@ -440,7 +441,7 @@ class _SecondPageState extends State<SecondPage>{
             ),
             const Padding(padding: EdgeInsets.all(15)),
             Container (
-              padding:  EdgeInsets.only(left: 25,top:5,right:25,bottom: 15) ,
+              padding:  EdgeInsets.only(left: 25,top:5,right:25,bottom: 5) ,
                 child: Text(widget.text, style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 20, color: Colors.white), textAlign: TextAlign.center)
             )
           ],
@@ -449,8 +450,9 @@ class _SecondPageState extends State<SecondPage>{
       floatingActionButton: FloatingActionButton(
           onPressed: incrementLikes,
           tooltip: 'Like',
-          backgroundColor: Colors.transparent,
-          child: Icon(Icons.thumb_up_alt_outlined)
+          backgroundColor: Colors.white,
+          child: Icon(Icons.thumb_up_alt,color: Colors.green)
+
       ),
     ),
     );
