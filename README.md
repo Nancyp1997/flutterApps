@@ -1,6 +1,7 @@
 # FlutterApps
-1. Chicago Attractions App
-This app lists the restaurants, famous tourist spots along with hotels to stay during your trip to Chicago, the windy city.  
+1. <b>Chicago Attractions App: </b>
+This app lists the restaurants🥪 , famous tourist spots 🏖️ along with hotels🛏️ to stay during your trip to Chicago, the windy city.    
+
 <br/>
 <p float="center">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
