@@ -15,7 +15,7 @@ int hyattCounter=0;
 void main() {
 
   const String qiaolinTxt = "Huo Guo(火锅), or Hot Pot, is not just a dish, it is an experience for the taste buds and the soul. Hot pot is exotic, but not intimidating. It is local yet universal.That experience originates in the city of Chongqing — a city that sits 7419 miles from Chicago. Now, those unique flavors will be here for all just a few blocks south of the Loop, in Chinatown.";
-  const String athenasTxt = "Inspired by the beauty and spirit of the Mediterranean, Athena embodies its lively atmosphere, fresh cuisine and warm hospitality. Our complete indoor and outdoor seating will transport you to the Greek Isles and can accommodate small and large parties for any occasion. Our goal is to create a warm environment for people to gather around a table with family and friends to feel at home. ";
+  const String athenasTxt = "Inspired by the beauty and spirit of the Mediterranean, Athena embodies its lively atmosphere, fresh cuisine and warm hospitality. Our complete indoor and outdoor seating will transport you to the Greek Isles and can accommodate small and large parties for any occasion. ";
   const String artopolisTxt = "Mediterranean cafe serving baked goods & mains made in the wood-burning oven & open-air kitchen.";
 
   const String skyDeckTxt = "An all new, interactive 30-60 minute Chicago experience shares Chicago’s best and rich history prior to your 103rd floor Skydeck visit.";
